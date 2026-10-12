@@ -1,0 +1,22 @@
+<resources>
+    <color name="primary">#6750A4</color>
+    <color name="accent">#6750A4</color>
+    <color name="on_accent">#FFFFFF</color>
+    <color name="header">#EFEAFF</color>
+    <color name="bg">#F5F5F7</color>
+    <color name="on_bot">#1C1B1F</color>
+    <color name="text_secondary">#49454F</color>
+
+    <color name="glass_fill">#73FFFFFF</color>
+    <color name="glass_sheen">#66FFFFFF</color>
+    <color name="glass_clear">#00FFFFFF</color>
+    <color name="glass_rim">#B3FFFFFF</color>
+    <color name="glass_hi">#E6FFFFFF</color>
+    <color name="scrim">#22FFFFFF</color>
+
+    <color name="user_a">#E6704EF0</color>
+    <color name="user_b">#D6A05CF0</color>
+    <color name="on_user">#FFFFFF</color>
+    <color name="send_a">#E67A5CFF</color>
+    <color name="send_b">#E6B061FF</color>
+</resources>
